@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Angélica, but you can call me Angel :information_desk_person:. I'm from Brazil and I'm a mechatronics engineering student :wrench:. I've been studying front-end development since I discovered this huge universe of creating pretty and functional things :two_hearts:. I'm here to learn and share. I would like to produce a lot of content here and contribute to the open source community.
+
+
+
 <!--
 **4ngelica/4ngelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
